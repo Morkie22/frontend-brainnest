@@ -1,6 +1,7 @@
 * {
     background-color : bisque;
     color : black;
+    font-size: larger;
     }
     h2 {
     font-family : 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -9,12 +10,14 @@
     color : black;
     border : black solid 10px;
     }
-    button2 {
-    font-family : 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size : x-large;
-    font-weight : bolder;
-    color : black;
-    border : black solid 10px;
+    button3 {
+        border-style: solid;
+        font-size: 30px;
+        font-weight: 20px;
+        color: black;
+        text-align: center;
+        border: solid black 10px;
+        border-radius: 25px;
     }
     .movies {
     font-family : 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
