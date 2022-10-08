@@ -58,6 +58,14 @@ h3{
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+.movies {
+    font-size: xx-large;
+    color:black;
+    font-weight: 40px;
+    border-style: groove;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
 footer{
     font-size: large;
     color:black;
