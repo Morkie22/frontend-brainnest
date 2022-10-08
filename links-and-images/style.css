@@ -1,7 +1,6 @@
 * {
     background-color: bisque;
     color:black;
-    border: solid black 10px;
 }
 body {
     font-size-adjust: black;
@@ -32,7 +31,12 @@ p {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .gallery {
+    font-size: xx-large;
+    color:black;
+    font-weight: 40px;
+    border-style: groove;
     text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     border: solid black 10px;
 }
 .map{
