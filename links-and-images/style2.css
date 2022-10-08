@@ -1,0 +1,76 @@
+*{
+    background-color: orange;
+    font-size: larger;
+    border: solid black 10px;
+    color: black;
+    text-align: center;
+}
+.background{
+    font-size:large;
+    color:black;
+    font-weight: 38px;
+    border-style: bolder;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-size: large;
+    color:black;
+    font-weight: 30px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    font-size: large;
+    color:black;
+    font-weight: 25px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: bolder;
+    border: solid black 10px;
+}
+h4{
+    font-size: small;
+    color:black;
+    font-weight: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    font-size: xx-large;
+    color:black;
+    font-weight: 200px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border: solid black 10px;
+}
+.navigation1{
+    font-size: medium;
+    color:black;
+    font-weight: 30px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border: solid black 10px;
+}
+footer { 
+    font-size: large;
+    color: black;
+    font-weight: 60px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.topnav2{
+    border-style: solid;
+    font-size: 30px;
+    font-weight: 20px;
+    color: black;
+    text-align: center;
+}
+.title{
+    border-style: solid;
+    font-size: 30px;
+    font-weight: 20px;
+    color: black;
+    text-align: center;
+    border: 2em;  
+}

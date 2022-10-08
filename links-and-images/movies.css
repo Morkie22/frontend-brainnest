@@ -1,0 +1,49 @@
+*{
+    font-size: larger;
+    background-color: orange;
+    Color: black;
+
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: black;
+    border: solid black 10px;
+}
+.topnav3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    font-weight: bolder;
+    color: black;
+    border: 2e;
+    border: 10px solid black;
+}
+.movies{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    font-weight: bolder;
+    color: black;
+    border: 10px solid black;
+}
+.games {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    font-weight: bolder;
+    color: black;
+    border: 10px solid black;
+}
+#benefits {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    font-weight: bolder;
+    color: black;
+    border: 10px solid black;
+}
+footer{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    font-weight: bolder;
+    color: black;
+    border: 10px solid black;
+}
